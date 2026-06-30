@@ -106,3 +106,4 @@ jupyter notebook nlp_v2.ipynb
 ## Автор
 
 Valery Frolov
+
